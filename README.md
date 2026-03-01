@@ -46,7 +46,7 @@ This project demonstrates full-stack development skills including REST API creat
  
 ## Tech Stack
 
-    🔹 **Backend**
+🔹 **Backend**
    - [Java](https://www.oracle.com/java/)
    - [SpringBoot](https://spring.io/projects/spring-boot)
    - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
@@ -66,7 +66,6 @@ This project demonstrates full-stack development skills including REST API creat
  ## Project Structure
 
  ```plaintext
-
 Book-Management-System
 │
 ├── backend (Spring Boot)
@@ -98,8 +97,8 @@ Book-Management-System
      - Select backend folder
    ## 3.Configure Database
 
-     ```properties
-     spring.application.name=BookManagementSystem
+```properties
+spring.application.name=BookManagementSystem
 
 server.port=8081
 spring.datasource.url=jdbc:mysql://localhost:3307/book
@@ -122,16 +121,20 @@ Backend runs on:
 🔹 **Frontend Setup (React)**
 
 ## 5. Install Dependencies
+
 ```Bash
     cd frontend
     npm install
 ```
 
 ## 6. Start Frontend
+
 ```Bash
     npm start
 ```
+
 Frontend runs on:
+
 ```Code
    http://localhost:3000
 ```
@@ -140,9 +143,11 @@ Frontend runs on:
 
 ### 1. Start the Backend
 From the `backend` directory:
+
 ```bash
 mvn spring-boot:run
 ```
+
 - By default, runs on http://localhost:8081`
 
 ### Using Eclipse IDE
@@ -150,13 +155,16 @@ mvn spring-boot:run
  1.Open the project in Eclipse
 
  2.Right-click on
+
 ```
 BookManagmentSystemApplication.java
 ```
  3. Click:
+
    **Run As → Spring Boot App**
 
  Backend will start on:
+ 
  ```Code
      http://localhost:8081
  ```
@@ -164,6 +172,7 @@ BookManagmentSystemApplication.java
 ### 2. Start the Frontend
 
 Open a new terminal in the `frontend` directory:
+
 ```bash
 npm start
 ```
