@@ -182,4 +182,32 @@ npm start
   Open your browser at `http://localhost:3000`. You can sign up for a new account or log in if  you already have one.
 
 
-  
+## Screenshots  
+Home Page:
+
+<img width="1919" height="927" alt="Screenshot 2026-03-01 161954" src="https://github.com/user-attachments/assets/9fb036da-0b59-4b71-be69-384d8cddfdd0" />
+
+---
+
+Contact page:
+
+<img width="1919" height="927" alt="Screenshot 2026-03-01 161954" src="https://github.com/user-attachments/assets/519afdc1-e1c7-4b65-a085-12cf4945fe1e" />
+
+---
+
+Login page:
+
+<img width="1919" height="837" alt="Screenshot 2026-03-01 162129" src="https://github.com/user-attachments/assets/a038f7b8-723b-4cea-8ddc-d96920885af2" /> 
+
+--- 
+
+Dashborad page:
+
+<img width="1907" height="729" alt="Screenshot 2026-03-01 163020" src="https://github.com/user-attachments/assets/020239a0-5e67-4b27-82b4-c1a41a1210fa" />
+
+---
+
+
+
+
+
