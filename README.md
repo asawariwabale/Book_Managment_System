@@ -191,7 +191,7 @@ Home Page:
 
 Contact page:
 
-<img width="1919" height="927" alt="Screenshot 2026-03-01 161954" src="https://github.com/user-attachments/assets/519afdc1-e1c7-4b65-a085-12cf4945fe1e" />
+<img width="1915" height="977" alt="Screenshot 2026-03-01 152852" src="https://github.com/user-attachments/assets/7156e7e8-18a5-409f-8055-4d87b13e6e75" />
 
 ---
 
